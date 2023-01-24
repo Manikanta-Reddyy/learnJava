@@ -1,5 +1,3 @@
-import javax.sql.rowset.spi.SyncResolver;
-
 import java.util.*;
 public class patternNum {
     public static void main(String[] args) {
